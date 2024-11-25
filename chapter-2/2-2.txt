@@ -1,0 +1,4 @@
+# 使用 pip 安装 PyTorch
+pip install torch torchvision torchaudio
+# 使用 conda 安装 PyTorch
+conda install pytorch torchvision torchaudio cudatoolkit=11.1 -c pytorch -c conda-forge

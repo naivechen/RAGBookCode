@@ -1,0 +1,6 @@
+.DS_Store
+data/*
+bert_model.pth
+entire_model.pth
+model_params.pth
+.vscode/*
